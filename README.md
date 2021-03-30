@@ -1,5 +1,5 @@
 
-#To deploy the application:
+# To deploy the application:
 
 Clone the repository\
 You should be at ```backend-assignment/products_backend```\
@@ -17,7 +17,7 @@ to have a fresh one, but it will be empty.
 
 To run the tests\
 ```python manage.py test products.tests```
-#Assignment API endpoints
+# Assignment API endpoints
 
 List of all categories: ```http://127.0.0.1:8000/categories```
 
